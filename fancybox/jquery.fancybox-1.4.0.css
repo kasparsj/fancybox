@@ -107,7 +107,7 @@
 #fancybox-close {
 	position: absolute;
 	top: -15px;
-	right: -15px;
+	left: -15px; /* make close button appear on the left! */
 	width: 30px;
 	height: 30px;
 	background-image: url('fancybox.png');
